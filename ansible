@@ -1,5 +1,5 @@
 --- 
- - name: ansileplaybook
+ - name: ansibleplaybook
    hosts: all
    tasks:
     - name: create file in tmp
